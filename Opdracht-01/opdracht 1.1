@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Aanmelden</title>
+</head>
+
+<body>
+    <header>
+        <img src="#" alt="Logo">
+        <!-- Hier komt het logo in te staan. -->
+        <a href="#"> <img src="#" alt="profiel"> </a>
+        <!-- Link naar een profielpagina. -->
+        <form>
+            <input type="text" placeholder="Zoek en vind..." required>
+            <input type="button" value="search">
+        </form>
+    </header>
+
+    <main>
+        <form>
+            <fieldset>
+                <legend>Persoonlijke gegevens</legend>
+                <label>voornaam</label>
+                <input type="text" name="voornaam" placeholder="Voornaam">
+                <label>tussenvoegsel</label>
+                <input type="text" name="tussenvoegsel" placeholder="tussenvoegsel">
+                <label>acthernaam</label>
+                <input type="text" name="achternaam" placeholder="Achternaam">Achternaam
+            </fieldset>
+
+            <fieldset>
+                <legend>Contact gegevens</legend>
+                <label>Email.</label>
+                <input type="email" name="Email" placeholder="Email">
+                <label>adres</label>
+                <input type="text" name="Straat" placeholder="Straat">
+                <input type="text" name="huisnummer" placeholder="huisnummer">
+                <input type="text" pattern="[1-9][0-9]{3}\s?[a-aA-Z]{2}" name="postcode" placeholder="postcode">
+
+                <label>telefoonnummer</label>
+                <input type="tel" name="Telefoonnummer" placeholder="Telefoonnummer">
+                <label>wachtwoord</label>
+                <input type="password" name="wachtwoord" placeholder="wachtwoord">
+                <label>herhaal wachtwoord</label>
+                <input type="password" name="herhaal-wachtwoord" placeholder="herhaal-wachtwoord">
+            </fieldset>
+            <input type="submit" value="Aanmelden">
+
+        </form>
+
+
+    </main>
+
+</body>
+
+</html>
