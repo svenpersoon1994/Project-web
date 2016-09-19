@@ -1,0 +1,30 @@
+body {
+    margin-left: 1.414em;
+    margin-top: 0, 5em;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 1.999em;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 1.414em;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 1.0em;
+    line-height: 1.6em;
+    max-width: 25em;
+}
+
+article {
+    background-color: #e2e2e6;
+    max-width: 15em;
+    display: inline-block;
+    float: left;
+    min-height: 20em;
+    max-height: 20em
+}
