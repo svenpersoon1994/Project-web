@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="Style/aanmelden-media.css">
+    <title>Login</title>
+</head>
+
+<body>
+    <header>
+        <a href="opdracht4.1.html"> <img id="logo" src="Beelden/logo.png" alt="Logo"></a>
+        <!-- Hier komt het logo in te staan. -->
+        <a href="opdracht4.3.html"> <img id="profiel" src="Beelden/profiel-01.png" alt="profiel"> </a>
+        <!-- Link naar een profielpagina. -->
+        <form>
+            <input type="text" placeholder="Zoek en vind..." required>
+            <input type="button" value="zoeken">
+        </form>
+    </header>
+
+    <section id="container">
+        <form name="aanmelden" id="aanmelden" method="post" action="#">
+
+            <h1>Maak snel uw eigen profiel aan</h1>
+
+            <div id="wrapping" class="clearfix">
+
+
+                <form name="aanmelden" id="aanmelden-form" method="post" action="#">
+                    <fieldset> Persoonlijkegegevens
+                        <label id="icon" for="name"><i class="fa fa-user"></i></label>
+                        <input class="txtinput" type="text" name="name" id="name" placeholder="Voornaam" required/>
+
+                        <label id="icon" for="name"><i class="fa fa-user-plus"></i></label>
+                        <input class="txtinput" type="text" name="name" id="name" placeholder="Achternaam" required/>
+                        <label id="icon" for="name"><i class="fa fa-envelope-o"></i></label>
+                        <input class="txtinput" type="email" name="name" id="name" placeholder="E-Mail" required/>
+                    </fieldset>
+
+                    <fieldset> Wachtwoord gegevens
+
+                        <label id="icon" for="wachtwoord"><i class="fa fa-user"></i></label>
+                        <input class="txtinput" type="text" name="wachtwoord" id="name" placeholder="Wachtwoord" required/>
+
+                        <label id="icon" for="herhaal-wachtwoord"><i class="fa fa-user"></i></label>
+                        <input class="txtinput" type="text" name="herhaal-wachtwoord" id="name" placeholder="Herhaal uw wachtwoord" required/>
+                    </fieldset>
+
+
+
+
+                </form>
+
+                <section id="buttons">
+                    <a href="#" class="btn btn-verzenden">Submit</a>
+                    <br style="clear:both;">
+                </section>
+            </div>
+        </form>
+
+</body>
+
+</html>
+
+
+<!--
+    <main>
+        <form>
+            <fieldset>
+                <legend>Persoonlijke gegevens</legend>
+
+                <label for="voornaam">voornaam</label>
+                <input type="text" name="voornaam" id="voornaam" placeholder="Voornaam">
+
+                <label for="tussenvoegsel">tussenvoegsel</label>
+                <input type="text" name="tussenvoegsel" id="tussenvoegsel" placeholder="tussenvoegsel">
+
+                <label for="achternaam">achternaam</label>
+                <input type="text" name="achternaam" id="achternaam" placeholder="achternaam">
+            </fieldset>
+
+            <fieldset>
+                <legend>Contact gegevens</legend>
+
+                <label for="email"> Email.</label>
+                <input type="email" name="email" placeholder="Email">
+
+                <label>Adres</label>
+                <input type="text" name="Straat" placeholder="Straat">
+                <input type="text" name="huisnummer" placeholder="huisnummer">
+                <input type="text" pattern="[1-9][0-9]{3}\s?[a-aA-Z]{2}" name="postcode" placeholder="postcode">
+
+                <label>telefoonnummer</label>
+                <input type="tel" name="Telefoonnummer" placeholder="Telefoonnummer">
+
+                <label>wachtwoord</label>
+                <input type="password" name="wachtwoord" placeholder="wachtwoord">
+
+                <label>herhaal wachtwoord</label>
+                <input type="password" name="herhaal-wachtwoord" placeholder="herhaal-wachtwoord">
+            </fieldset>
+            <input type="submit" value="Aanmelden">
+        </form>
+    </main>
+-->
