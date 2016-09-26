@@ -1,0 +1,204 @@
+/*======================== General ========================*/
+
+body {
+    margin: 0;
+    vertical-align: baseline;
+    background-image: url(/Beelden/achtergrond-aanmelden.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #FFC117;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.5em;
+}
+
+header #logo {
+    max-width: 3.5em;
+    display: flex;
+    margin-left: 1em;
+}
+
+header #profiel {
+    max-width: 1.8em;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 1em;
+}
+
+header form {
+    display: flex;
+    align-self: flex-end;
+    margin-left: 1em;
+}
+
+header input[type=text] {
+    background-color: #006ECD;
+    color: white;
+    padding: 1em 1em;
+    box-decoration-break: none;
+}
+
+header input[type=button],
+input[type=submit],
+input[type=reset] {
+    background-color: #006ECD;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 0.5em;
+}
+
+
+/*======================== Formulier ========================*/
+
+#container {
+    display: block;
+    max-width: 44em;
+    margin: 0 auto;
+    margin-top: 0.3em;
+    margin-bottom: 4em;
+    padding: 1.25em 1em;
+    background: #FFC117;
+}
+
+h1 {
+    color: #002B77;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 1.999em;
+    text-align: center;
+}
+
+
+/*======================== Formulier - elementen ========================*/
+
+#container input[type=text],
+input[type=email] {
+    background-color: #FFFFFF;
+    border: solid 0px;
+    height: 3.0em;
+    font-size: 1em;
+    margin-left: -0.3em;
+    margin-top: 1em;
+    padding-left: 1em;
+    width: 85%;
+}
+
+.txtinput:focus {
+    color: #002B77;
+    outline: 0 none;
+    transition: all 0.4s ease-in-out;
+}
+
+#wrapping {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+/** all @group clearfix **/
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+fieldset {
+    color: darkgoldenrod;
+    color: #002B77;
+    font-family: 'Droid Sans', sans-serif;
+    border: none;
+}
+
+
+/*======================== Knoppen ========================*/
+
+#buttons {
+    display: block;
+    margin-top: 1.3em;
+}
+
+.btn {
+    font-size: 1.2em;
+    font-family: 'Droid Sans', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 100%;
+    padding: .7em 0em;
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+}
+
+
+/*Versturen*/
+
+.btn.btn-verzenden {
+    background-color: #006ECD;
+    margin-top: 0.3em;
+}
+
+.btn.btn-verzenden:active {
+    top: 3px;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+
+/*********** smaller screen dropoff *******/
+
+@media (min-width: 35em) {
+    #aanmelden-form .txtinput,
+    #aanmelden-form textarea {
+        width: 70%;
+    }
+    .buttonchk {
+        max-width: 45%;
+    }
+}
+
+
+/** all devices and responsive browser windows **/
+
+@media (min-width: 60em) {
+    #container {
+        width: 100%;
+    }
+    #tellja-form #form_aligned {
+        width: 100%;
+        float: none;
+        display: block;
+    }
+    #tellja-form .txtinput {
+        width: 83%;
+    }
+    #awardbtn {
+        margin-bottom: 15px;
+    }
+    .buttonchk {
+        max-width: 45%;
+    }
+}
