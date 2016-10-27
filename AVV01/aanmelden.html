@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/aanmelden-media.css">
+    <title>Aanmelden</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html"><img src="images/logo.png" alt="Logo"> </a>
+        <form>
+            <input type="text" placeholder="Zoek en vind..." required>
+            <input type="button" value="zoeken">
+        </form>
+        <a href="aanmelden.html"><img src="images/profiel-01.png" alt="profiel"></a>
+    </header>
+
+    <main>
+
+        <form>
+            <fieldset>
+                <legend>Persoonlijkegegevens:</legend>
+
+                <label> Voornaam
+                    <input type="text" class="firstname" placeholder="Voornaam" />
+                </label>
+
+                <label>Achternaam
+                    <input type="text" class="lastname" placeholder="Achternaam" />
+                </label>
+
+                <label> Email
+                    <input type="email" class="email" placeholder="Email" />
+                </label>
+
+            </fieldset>
+
+            <fieldset>
+                <legend>Wachtwoord gegevens:</legend>
+                <label> Wachtwoord
+                    <input type="password" class="password" placeholder="Wachtwoord" />
+                </label>
+
+                <label>Herhaal wachtwoord
+                    <input type="password" class="password" placeholder="herhaal wachtwoord" />
+                </label>
+
+                <label>
+                    <input type="checkbox" value="Onthoud mij" class="checkbox" /> <span>Onthoud mij</span>
+                </label>
+                <input type="submit" value="aanmelden" class="button" />
+            </fieldset>
+        </form>
+    </main>
+</body>
+
+</html>
