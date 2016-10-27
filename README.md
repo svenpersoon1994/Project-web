@@ -10,13 +10,13 @@ U can use the source code but dont remember, to give the credits to the right pe
 
 <strong>Document tree</strong>
 
-Opdracht-01</br>
+<strong>Opdracht-01</strong></br>
 ---opdacht1.1</br>
 ---opdacht1.2</br>
 ---opdacht1.3</br>
 
 
-Opdracht-02</br>
+<strong>Opdracht-02</strong></br>
 ---opdracht2.1</br>
 ---opdracht2.2</br>
 ---opdracht2.3</br>
@@ -25,7 +25,7 @@ Opdracht-02</br>
 ------overzichtpagina-style.css</br>
 
 
-Opdracht-03</br>
+<strong>Opdracht-03</strong></br>
 ---opdracht3.1</br>
 ---opdracht3.2</br>
 ---opdracht3.3</br>
@@ -37,7 +37,7 @@ Opdracht-03</br>
 ------profiel-01.png</br>
     
     
-Opdracht-04</br>
+<strong>Opdracht-04</strong></br>
 ---opdracht4.1</br>
 ---opdracht4.3</br>
 ---*styles*</br>
@@ -60,7 +60,7 @@ Opdracht-04</br>
 ------profiel-01.png</br>
 
 
-Opdracht-04</br>
+<strong>Opdracht-04</strong></br>
 ---aanmelden</br>
 ---index</br>
 ---*styles*</br>
