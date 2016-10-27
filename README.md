@@ -1,11 +1,18 @@
 #Project-web
 
-Project Web,
-©Sven Persoon 500730233 klas V1-04
-I dont own any of the photo rights!
-U can use the source code but dont remember, to give the credits to the right persons!
+This is a school project read me file.</br>
+Learing a lot about coding and github on the moment!</br>
+First time using flexbox, its a nightmare but so awesome when it works</br>
 
-<pre> Good luck with coding, dont forget to give the credits to the right owners! </pre>
+<strong> Personal data </strong>
+Project Web,<br>
+©Sven Persoon<br> 
+500730233<br> 
+klas V1-04<br>
+<em>I dont own any of the photo rights!</em>
+
+
+<pre> U can use the source code but dont remember, to give the credits to the right persons! </pre>
 
 <h2>Follow along with me</h2>
 <ul>
