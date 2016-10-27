@@ -8,7 +8,7 @@ U can use the source code but dont remember, to give the credits to the right pe
 
 
 
-<strong>Document tree<strong>
+<strong>Document tree</strong>
 
 Opdracht-01</br>
 ---opdacht1.1</br>
