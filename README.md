@@ -1,9 +1,14 @@
 #Project-web
 
 Project Web,
-Sven Persoon 500730233 klas V1-04
+©Sven Persoon 500730233 klas V1-04
+I dont own any of the photo rights!
+U can use the source code but dont remember, to give the credits to the right persons!
 
-Document tree
+
+
+
+<strong>Document tree<strong>
 
 Opdracht-01</br>
 ---opdacht1.1</br>
