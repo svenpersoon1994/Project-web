@@ -17,28 +17,37 @@ Opdracht-02</br>
 ------overzichtpagina-style.css</br>
 
 
-Opdracht-03
+Opdracht-03</br>
 ---opdracht3.1</br>
 ---opdracht3.2</br>
 ---opdracht3.3</br>
 ---*style*</br>
-------detailpagina-style.css
-------overzichtpagina-style.css
+------detailpagina-style.css</br>
+------overzichtpagina-style.css</br>
 ---*beelden*</br>
-------logo.png
-------profiel-01.png
+------logo.png</br>
+------profiel-01.png</br>
     
+Opdracht-04</br>
+---opdracht4.1</br>
+---opdracht4.3</br>
+---*styles*</br>
+------aanmelden-media.css</br>
+------overzichtpagina-media.css</br>
+---*beelden*</br>
+------01.jpeg</br>
+------02.jpg</br>
+------03.jpg</br>
+------04.jpg</br>
+------05.jpeg</br>
+------06.jpeg</br>
+------07.jpeg</br>
+------08.jpeg</br>
+------09.jpeg</br>
+------10.jpeg</br>
+------11.jpeg</br>
+------achtergrond-aanmelden.jpg</br>
+------logo.png</br>
+------profiel-01.png</br>
+
     
-OPDRACHT 03
-  BEELDEN
-    logo.png
-    profiel-01.png
-  OPDRACHT 3.12
-    
-  OPDRACHT 3.2
-    
-  OPDRACHT 3.3
-    
-  STYLE
-    detailpagina-style.css
-    overzichtpagina-style.css
