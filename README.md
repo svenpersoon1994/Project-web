@@ -1,6 +1,14 @@
 #Project-web-02
 
-*Project web Voor de Hva*
+
+
+
+
+
+
+
+
+Document tree
 
 Opdracht-01</br>
 ---opdacht1.1</br>
@@ -53,11 +61,11 @@ Opdracht-04</br>
 
 
 Opdracht-04</br>
----aanmelden
----index
+---aanmelden</br>
+---index</br>
 ---*styles*</br>
-------aanmelden-media.css
-------overzichtpagina-media.css
+------aanmelden-media.css</br>
+------overzichtpagina-media.css</br>
 ---*images*</br>
 ------01.jpeg</br>
 ------01.png</br>
