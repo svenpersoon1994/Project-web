@@ -5,13 +5,13 @@ Project Web,
 I dont own any of the photo rights!
 U can use the source code but dont remember, to give the credits to the right persons!
 
-
+<pre> Good luck with coding, dont forget to give the credits to the right owners! </pre>
 
 <h2>Follow along with me</h2>
 <ul>
-<li>twitter: <a> www.google.nl </a> </li>
-<li>Website: <a> www.google.nl </a> </li>
-<li>Github: <a> www.google.nl </a> </li>
+<li>twitter: <a> https://twitter.com/Persoon_media </a> </li>
+<li>Website: <a> http://www.persoonmedia.nl </a> </li>
+<li>Github: <a> https://github.com/svenpersoon1994</a> </li>
 </ul>
 
 
