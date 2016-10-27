@@ -1,13 +1,16 @@
-# Project-web-02
-Project web Voor de Hva
+#Project-web-02
 
-OPDRACHT 01
----OPDRACHT 1.1
----OPDRACHT 1.2
----OPDRACHT 1.3
-      
-      
-OPDRACHT 02
+*Project web Voor de Hva*
+
+
+
+*OPDRACHT 01* <br>
+<ul>
+      <li>---OPDRACHT 1.1 <br>
+      <li>---OPDRACHT 1.2 <br>
+      <li>---OPDRACHT 1.3 <br>
+
+OPDRACHT 02 <
   OPDRACHT 2.1
     
   OPDRACHT 2.2
