@@ -23,7 +23,7 @@ OPDRACHT 03
   BEELDEN
     logo.png
     profiel-01.png
-  OPDRACHT 3.1
+  OPDRACHT 3.12
     
   OPDRACHT 3.2
     
