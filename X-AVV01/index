@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/overzichtpagina-media.css">
+    <title>Overzicht</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html"><img src="images/logo.png" alt="Logo"> </a>
+        <form>
+            <input type="text" placeholder="Zoek en vind..." required>
+            <input type="button" value="zoeken">
+        </form>
+        <a href="aanmelden.html"><img src="images/profiel-01.png" alt="profiel"></a>
+    </header>
+
+    <main>
+
+        <h1>Verhalen <span>(99)</span></h1>
+
+        <section>
+            <article>
+                <img src="images/01.png" alt="Neerslachtig">
+                <h2>Neerslachtig - 68</h2>
+
+                <p>Ach en wee, ik stap de bus uit. Mijn zoon – in wat voor wereld heb ik die jongen neergezet – ligt vredig in zijn wagentje te slapen, vrij van kwade gedachten. Het regent en waait en dat is maar goed ook. <a href="#">lees verder...</a>
+                </p>
+
+                <footer>
+                    <p>Molovich
+                        <time>2011-05-09</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/02.png" alt="Stoned">
+                <h2> Stoned - 73</h2>
+                <p>Zodra ik de bus uitstap steek ik een dikke vette joint op. De derde van de dag al. Ik neem een lange haal, inhaleer diep, houd de rook een tijdje binnen en blaas dan, de lippen gerond, het hoofd een beetje in de... <a href="#">lees verder...</a>
+                </p>
+                <footer>
+                    <p>
+                        Molovich
+                        <time>2011-05-04</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/03.png" alt="Eric Lucassen">
+                <h2>Eric Lucassen - 16</h2>
+                <p>Ik stap bus 21 uit terwijl ik mijn zoon op nog geen halve meter hinderlijk achtervolg. De gore klootzak heeft een uur geleden in z’n luier gescheten en dat pik ik niet. Maar hij slaapt, de hond. Hordes teringlijers en<a href="#">lees verder...</a></p>
+
+                <footer>
+                    <p>Molovich
+                        <time>2011-05-03</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/04.png" alt="terug spoelen">
+                <h2>Terug spoelen - 59</h2>
+                <p>In een babywinkel op het Bos en Lommerplein koop ik babyschoentjes. Teleurgesteld verlaat ik de bibliotheek. Dat geloof je toch niet? Ik ben de hele tijd al op de tweede verdieping aan het zoeken.<a href="#">lees verder...</a></p>
+                <footer>
+                    <p>
+                        Molovich
+                        <time>2011-04-26</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/05.png" alt="Kamer vragen van Richard de Mos">
+                <h2>Kamervragen van Richard de Mos - 15</h2>
+                <p>Voorzitter, 1. Heeft de Minister het bericht op Nurks van Max Molovich gelezen waarin hij vertelt dat hij met bus 21 naar het Centraal Station gaat. Zo ja, is de Minister zich ervan bewust zijnde dat de <a href="#">lees verder...</a></p>
+
+                <footer>
+                    <p>Molovich
+                        <time>2011-04-14</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/06.png" alt="Het gebrek">
+                <h2>Het gebrek - 94</h2>
+                <p>De bus uit. Mijn zoon tukt in zijn kinderkoets. Eindelijk. Ik loop over het plein. Een gierende wind en een striemende miezerregen geselen mijn gezicht. De mensen kijken voor zich uit, ieder voor zich. Ik ben op weg richting de <a href="#">lees verder...</a></p>
+                <footer>
+                    <p>Molovich
+                        <time>2011-06-29</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/07.png" alt="Zombie">
+                <h2>Zombie - 89</h2>
+                <p> Duizenden hongerige ondoden lopen zielloos over het stationsplein. Op zoek naar voedsel, naar half vergane hondenlijken, naar vers mensenvlees. Het is gekkenwerk dat ik hier ben, <a href="#">lees verder...</a>
+                </p>
+
+                <footer>
+                    <p>Molovich
+                        <time>2011-06-21</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/08.png" alt="Code">
+                <h2>Code - 87</h2>
+                <p> <i>Kraak de code en win een romantisch etentje met de verwarde man.</i> In kwellende situaties toveren apen pennenvruchten uit invloedrijke tapijthandelaren. De engelen buigen uitermate succesvol en <a href="#">lees verder...</a></p>
+
+
+                <footer>
+                    <p>Molovich
+                        <time>2011-06-17</time>
+                    </p>
+                </footer>
+            </article>
+
+            <article>
+                <img src="images/09.png" alt="Kinderboek">
+                <h2>Kinderboek - 75</h2>
+                <p>Kijk, daar gaat Max. Dag Max! Hij stapt uit de bus. Wat duwt hij daar vooruit? Jawel, een heuse kinderwagen! En wat voor één! Een groene! Zijn zoontje ligt er in te slapen. Die heeft gelukkig geen last van de kou. Want het is koud joh! <a href="#">lees verder...</a>
+                </p>
+
+                <footer>
+                    <p>Molovich
+                        <time>2011-05-27</time>
+                    </p>
+                </footer>
+                
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
