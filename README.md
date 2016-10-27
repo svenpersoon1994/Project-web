@@ -2,11 +2,9 @@
 Project web Voor de Hva
 
 OPDRACHT 01
-  OPDRACHT 1.1
-      
-  OPDRACHT 1.2
-      
-  OPDRACHT 1.1
+---OPDRACHT 1.1
+---OPDRACHT 1.2
+---OPDRACHT 1.3
       
       
 OPDRACHT 02
