@@ -7,6 +7,15 @@ U can use the source code but dont remember, to give the credits to the right pe
 
 
 
+<h2>Follow along with me</h2>
+<ul>
+<li>twitter: <a> www.google.nl </a> </li>
+<li>Website: <a> www.google.nl </a> </li>
+<li>Github: <a> www.google.nl </a> </li>
+</ul>
+
+
+
 
 <strong>Document tree</strong>
 
