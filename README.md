@@ -3,12 +3,13 @@
 This is a school project read me file.</br>
 Learing a lot about coding and github on the moment!</br>
 First time using flexbox, its a nightmare but so awesome when it works</br>
+feel free to give me feedback when you think it must be done</br>
 
-<strong> Personal data </strong>
-Project Web,<br>
-©Sven Persoon<br> 
-500730233<br> 
-klas V1-04<br>
+<strong> Personal data </strong></br>
+Project Web,</br>
+©Sven Persoon</br> 
+500730233</br> 
+klas V1-04</br>
 <em>I dont own any of the photo rights!</em>
 
 
