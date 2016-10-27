@@ -4,11 +4,10 @@
 
 
 
-*OPDRACHT 01* <br>
-<ul>
-      <li>---OPDRACHT 1.1 <br>
-      <li>---OPDRACHT 1.2 <br>
-      <li>---OPDRACHT 1.3 <br>
+*OPDRACHT 01*
+<li>---OPDRACHT 1.1 </li>
+<li>---OPDRACHT 1.2 </li>
+<li>---OPDRACHT 1.3 </li>
 
 OPDRACHT 02 <
   OPDRACHT 2.1
